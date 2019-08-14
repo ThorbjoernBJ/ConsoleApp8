@@ -7,8 +7,7 @@ namespace ConsoleApp8
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("commit test");
-            //du kan kun lave kode på GITHUB
+            Console.WriteLine("commit test);
         }
     }
 }
