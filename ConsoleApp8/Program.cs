@@ -8,7 +8,7 @@ namespace ConsoleApp8
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("commit test");
-            Console.WriteLine("Nu laver vi en ny branch");
+            Console.WriteLine("Denne branch fungere");
         }
     }
 }
